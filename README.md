@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=efb6fc&height=200&section=header&text=Haim_Lee's Github!&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
 
 </div>
 <div align=center>
