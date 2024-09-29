@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=efb6fc&height=200&section=header&text=Haim_Lee's Github!&fontColor=fbf5fc&fontSize=80&fontAlignY=40&animation=twinkling
-	
-	&desc=Desc&descSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=efb6fc&height=200&section=header&text=Haim_Lee's Github!&fontColor=fbf5fc&fontSize=80&fontAlignY=40&animation=twinkling" />
 
 </div>
 <div align=center>
