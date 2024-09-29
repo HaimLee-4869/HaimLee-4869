@@ -12,9 +12,7 @@
 
 
 <div align="center">
-
-
-	<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
@@ -28,7 +26,6 @@
 <div align=center>
 	<img src="https://img.shields.io/badge/Visual%20Studio-a31ed4?style=flat&logo=VisualStudioCode&logoColor=white" />	 <!-- visual studio -->
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" /> <!-- 비주얼코드 -->
-
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />	<!-- 이클립스 -->
 	<br>
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
@@ -61,6 +58,7 @@
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaimLee-4869&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=HaimLee-4869&show_icons=true">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaimLee-4869&show_icons=true&theme=radical)
 </div>
 
 
