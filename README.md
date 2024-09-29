@@ -15,6 +15,48 @@
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
 
+
+<br>
+<div align=center>
+	<p>🛠 Tools 🛠</p>
+</div>
+<div align=center>
+	<img src="https://img.shields.io/badge/Visual%20Studio-a31ed4?style=flat&logo=VisualStudioCode&logoColor=white" />	 <!-- visual studio -->
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" /> <!-- 비주얼코드 -->
+	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />	<!-- 이클립스 -->
+	<br>
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+</div>
+<br>
+<div align=center>
+	<p>🎨 SNS 🎨</p>
+</div>
+<div align=center>
+	</a>	<!-- 블로그 -->
+		<img src="https://img.shields.io/badge/Blog-2DB400?style=flat&logo=Blogger&logoColor=white" />
+	</a>	<!-- 이메일 -->
+	<a href="j_haim4869@naver.com">
+		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+	</a>	<!-- 노션 -->
+		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	</a>	<!-- 깃허브 -->
+	<a href="gitbhub.com/HaimLee-4869">
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+ 
+	<br>
+</div>
+
+
+
+<br>
+
+
+
+
+
+
+
 <br>
 <br>
 <br>
