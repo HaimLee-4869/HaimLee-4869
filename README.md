@@ -6,7 +6,7 @@
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<br>
-	<p>✨ Platforms & Languages ✨</p>
+	<p>✨ Languages ✨</p>
 </div>
 
 
