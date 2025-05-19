@@ -1,10 +1,8 @@
-</div>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=efb6fc&height=200&section=header&text=Eunjung_Lee's Github!&fontColor=fbf5fc&fontSize=60&fontAlignY=40&animation=twinkling"/>
-
-
-
 </div>
+
+
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<br>
@@ -14,11 +12,18 @@
 
 
 <div align="center">
+	<!-- C -->
+	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+	<!-- C++ -->
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=Cplusplus&logoColor=white" />
+	<!-- Java -->
+ 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+	<!-- Python -->
 	<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+	<!-- JavaScript -->
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+
 </div>
 
 
@@ -27,7 +32,9 @@
 
 <br><br><br>
 <div align="center">
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 	<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+	<!-- C++ -->
 	<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/>
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
@@ -43,6 +50,7 @@
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
+ 	<img src="https://img.shields.io/badge/IntelliJ%20IDEAE-000000?style=flat&logo=EclipseIDE&logoColor=white" />
 
 
 <br><br><br>
