@@ -44,7 +44,7 @@
 		</a>	<!-- 인스타 -->
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
 	</a>	<!-- 이메일 -->
-	<a href="j_haim4869@naver.com">
+		<a href="j_haim4869@naver.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>	<!-- 노션 -->
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
