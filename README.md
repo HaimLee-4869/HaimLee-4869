@@ -38,20 +38,31 @@
 <div align=center>
 	<p>🎨 SNS 🎨</p>
 </div>
-<div align=center>
-	</a>	<!-- 블로그 -->
-		<img src="https://img.shields.io/badge/Blog-2DB400?style=flat&logo=Blogger&logoColor=white" />
-		</a>	<!-- 인스타 -->
-		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
-	</a>	<!-- 이메일 -->
-		<a href="j_haim4869@naver.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-	</a>	<!-- 노션 -->
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	</a>	<!-- 깃허브 -->
-	<a href="gitbhub.com/HaimLee-4869">
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+<div align="center">
+  <!-- 블로그 -->
+  <a href="https://yourblog.com">
+    <img src="https://img.shields.io/badge/Blog-2DB400?style=flat&logo=Blogger&logoColor=white" />
+  </a>
 
+  <!-- 인스타 -->
+  <a href="https://instagram.com/yourid">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
+  </a>
+
+  <!-- 이메일 -->
+  <a href="mailto:j_haim4869@naver.com">
+    <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+  </a>
+
+  <!-- 노션 -->
+  <a href="https://your-notion-link.com">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+  </a>
+
+  <!-- 깃허브 -->
+  <a href="https://github.com/HaimLee-4869">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+  </a>
 </div>
 
 
