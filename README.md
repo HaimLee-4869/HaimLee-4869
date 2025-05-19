@@ -8,7 +8,7 @@
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<br>
-	<p>✨ Languages ✨</p>
+	<p>✨ Languages ✨</p>												 <!-- 언어 -->
 </div>
 
 
@@ -24,15 +24,15 @@
 
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<p>🛠 Tools 🛠</p>													 <!-- 사용툴 -->
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Visual%20Studio-a31ed4?style=flat&logo=VisualStudioCode&logoColor=white" />	 <!-- visual studio -->
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" /> <!-- 비주얼코드 -->
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />	<!-- 이클립스 -->
 	<br>
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />				<!-- AWS -->
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />				<!-- Github -->
 </div>
 <br>
 <div align=center>
