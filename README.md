@@ -11,6 +11,7 @@
 
 
 <div align="center">
+	<br>
 	<p>✨ Languages ✨</p>
 	<!-- C -->
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
@@ -96,6 +97,7 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />	
 	<!-- Anaconda -->
 	<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/>
+	<br>
 	<br>
 	<br>
 </div>
