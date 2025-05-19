@@ -35,7 +35,10 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />				<!-- Github -->
 </div>
 <br>
-<div align="center">
+<div align=center>
+	<p>🎨 SNS 🎨</p>
+</div>
+<div align=center>
 
   <!-- 블로그 -->
   <a href="https://yourblog.com" style="text-decoration: none;">
