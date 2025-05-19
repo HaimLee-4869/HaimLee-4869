@@ -2,6 +2,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=efb6fc&height=200&section=header&text=Eunjung_Lee's Github!&fontColor=fbf5fc&fontSize=60&fontAlignY=40&animation=twinkling"/>
 </div>
 
+# [Eunjung's Portfolio](https://haimlee-4869.github.io/)
+
+위 링크로 들어오세요!
+
+&nbsp;
+
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
