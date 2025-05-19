@@ -3,9 +3,6 @@
 </div>
 
 # [Eunjung's Portfolio](https://haimlee-4869.github.io/)
-
-위 링크로 들어오세요!
-
 &nbsp;
 
 
