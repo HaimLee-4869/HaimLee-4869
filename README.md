@@ -105,8 +105,9 @@
 
 
 
-<br>
+
 <div align=center>
+	<br>
 	<p>🎨 SNS 🎨</p>
 </div>
 <div align="center">
