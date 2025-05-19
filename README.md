@@ -24,6 +24,7 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 	<!-- MySQL -->
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+	<br>
 </div>
 
 
@@ -35,6 +36,7 @@
  	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
 	<!-- JavaScript -->
   	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+	<br>
 </div>
 
 <div align="center">
@@ -51,6 +53,7 @@
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
 	<!-- MySQL -->
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+	<br>
 </div>
 
 <div align="center">
@@ -71,6 +74,7 @@
 	<img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=white">
 	<!-- Anaconda -->
 	<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/>
+	<br>
 </div>
 
 <div align="center">
@@ -87,10 +91,10 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />	
 	<!-- Anaconda -->
 	<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/>
+	<br>
 </div>
 
 
-<br><br><br>
 
 <br>
 <div align=center>
