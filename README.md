@@ -91,7 +91,7 @@
 	<!-- Eclipse IDE -->
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
  	<!-- IntelliJ IDE -->
- 	<img src="https://img.shields.io/badge/IntelliJ%20IDEAE-000000?style=flat&logo=IntelliJIDE&logoColor=white" />	
+ 	<img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellijidea&logoColor=white" />	
 	<!-- GitHub -->
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />	
 	<!-- Anaconda -->
