@@ -39,27 +39,11 @@
 	<p>🎨 SNS 🎨</p>
 </div>
 <div align="center">
-
-  <a href="https://yourblog.com" style="text-decoration: none; outline: none;">
-    <img src="https://img.shields.io/badge/Blog-2DB400?style=flat&logo=Blogger&logoColor=white" />
-  </a>
-
-  <a href="https://instagram.com/yourid" style="text-decoration: none; outline: none;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
-  </a>
-
-  <a href="mailto:j_haim4869@naver.com" style="text-decoration: none; outline: none;">
-    <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-  </a>
-
-  <a href="https://your-notion-link.com" style="text-decoration: none; outline: none;">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/HaimLee-4869" style="text-decoration: none; outline: none;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-  </a>
-
+  <a href="https://yourblog.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Blog-2DB400?style=flat&logo=Blogger&logoColor=white" /></a>
+  <a href="https://instagram.com/yourid" style="text-decoration: none;"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" /></a>
+  <a href="mailto:j_haim4869@naver.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" /></a>
+  <a href="https://your-notion-link.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
+  <a href="https://github.com/HaimLee-4869" style="text-decoration: none;"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /></a>
 </div>
 
 
