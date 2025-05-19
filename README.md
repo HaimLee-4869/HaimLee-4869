@@ -30,6 +30,7 @@
 
 
 <div align="center">
+	<br>
 	<p>💎 Front 💎</p>
 	<!-- React -->
 	<img src="https://img.shields.io/badge/React-0D8ABC?style=flat&logo=React&logoColor=white" />
