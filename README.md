@@ -112,7 +112,7 @@
 <div align="center">
   <br>
   <p>🎨 SNS 🎨</p>
-  <a href="https://blog.naver.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Blog-2DB400?style=flat&logo=Blogger&logoColor=white" /></a>
+  <a href="https://blog.naver.com/j_haim4869/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Blog-2DB400?style=flat&logo=Blogger&logoColor=white" /></a>
   <a href="https://instagram.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" /></a>
   <a href="mailto:j_haim4869@naver.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" /></a>
   <a href="https://www.notion.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
