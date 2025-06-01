@@ -185,3 +185,40 @@
 HaimLee-4869/HaimLee-4869 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+# 프로젝트 1: 스마트폰 센서 기반 행동 인식 모델 개발
+- 활동 배경
+  - 2025년 4월, 개인 프로젝트로 진행
+ - 역할
+   - Python 기반 데이터 수집 및 클렌징, 정제
+   - 정적/동적 행동 구분 및 라벨링
+   - RandomForest로 변수 중요도 분석 후 feaeture selection
+   - 4개 이상 알고리즘 (RandomForest, XGBoost 등) 학습 및 성능 비교
+   - 각 모델의 F1-score/Accuracy 측정, 통합 모델 구성
+   - 행동 분류용 파이프라인 구축, 실험 로그 정리 및 보고서 작성
+ - 결과/배운점
+   - 정적/동적 행동 분류 정확도 91% 달성
+   - feature selection의 중요성과 센서 데이터 전처리의 민감성 체감
+   - 다양한 모델 조합을 통한 ensemble 전략의 효과 확인 
+&nbsp;
+	<br>
+	<br>
+	<br>
+ # 프로젝트 2: AI 면접관 Agent 구축
+ - 활동 배경: 2025년 5월, 팀 프로젝트로 진행
+ - 역할
+   - LangGraph 기반 전반적 Agent 설계 및 코드 구현
+   - 이력서/자기소개서 입력값 처리, 키워드 및 요약 추출 (LLM)
+   - 질문 전략 수립, 맞춤형 인터뷰 질문 생성
+   - 사용자 응답 평가 및 인터뷰 피드백 리포트 자동 생성 기능 구현
+   - Gradio 기반 웹 UI 연동 및 인터페이스 설계
+   - 회의록/기획서 작성
+ - 결과/배운점
+   - 다양한 state를 활용한 LangGraph 흐름 설계 역량 강화
+   - LLM 기반 자동화 서비스의 구조와 한계에 대한 이해
+   - 인터페이스와 백엔드 모델 간 유기적 연결 중요성 체감
+&nbsp;
+	<br>
+	<br>
+	<br>
