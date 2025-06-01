@@ -19,6 +19,15 @@
 	<br>
 	<br>
 	<br>
+  # Introduction
+ - 문제를 해결해나가는 집요함이 있습니다.
+   - df
+ - ML/DL 엔지니어
+ - AI 엔지니어 (LLM 기반 응용 시스템 구축 포함)
+&nbsp;
+	<br>
+	<br>
+	<br>
 
 # [Eunjung's Portfolio](https://haimlee-4869.github.io/)
 
