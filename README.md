@@ -185,6 +185,9 @@
 HaimLee-4869/HaimLee-4869 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+	<br>
+	<br>
+	<br>
 
 
 # 프로젝트 1: 스마트폰 센서 기반 행동 인식 모델 개발
