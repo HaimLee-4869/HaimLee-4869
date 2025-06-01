@@ -2,6 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=efb6fc&height=200&section=header&text=Eunjung_Lee's Github!&fontColor=fbf5fc&fontSize=60&fontAlignY=40&animation=twinkling"/>
 </div>
 
+데이터와 인공지능 기반 문제 해결에 관심이 많은 예비 AI 엔지니어 이은정입니다. 다양한 도메인의 데이터를 분석하고, 머신러닝/딥러닝 모델을 활용한 프로젝트 경험이 있으며, Agent 기반 AI 시스템과 LangChain 활용 경험도 보유하고 있습니다.
+&nbsp;
 # [Eunjung's Portfolio](https://haimlee-4869.github.io/)
 
 포트폴리오는 위 링크로 들어오세요!
