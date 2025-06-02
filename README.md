@@ -211,7 +211,8 @@ You can click the Preview link to take a look at your changes.
 	<br>
 	<br>
  # 프로젝트 2: AI 면접관 Agent 구축
- - 활동 배경: 2025년 5월, 팀 프로젝트로 진행
+ - 활동 배경
+   - 2025년 5월, 팀 프로젝트로 진행
  - 역할
    - LangGraph 기반 전반적 Agent 설계 및 코드 구현
    - 이력서/자기소개서 입력값 처리, 키워드 및 요약 추출 (LLM)
