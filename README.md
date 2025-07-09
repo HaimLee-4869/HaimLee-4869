@@ -33,6 +33,26 @@
 	<br>
 	<br>
 
+
+
+  # Activiies
+ - 자격증
+   - 빅데이터분석기사
+
+ - 인턴십
+   - CJ올리브네트웍스
+
+ - 교육
+   - KT에이블스쿨
+&nbsp;
+	<br>
+	<br>
+	<br>
+
+
+
+
+
 # [Eunjung's Portfolio](https://haimlee-4869.github.io/)
 
 포트폴리오는 위 링크로 들어오세요!
