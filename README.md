@@ -35,7 +35,7 @@
 
 
 
-  # Activiies
+  # Activities
  - 자격증
    - 빅데이터분석기사
 
